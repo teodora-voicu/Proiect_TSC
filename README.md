@@ -1,4 +1,4 @@
-> # Ariton Adrian TSC - OpenBook Reader
+> # Voicu Teodora TSC - OpenBook Reader
 >
 > ## Implementation steps
 >
