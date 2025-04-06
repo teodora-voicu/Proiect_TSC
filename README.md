@@ -1,4 +1,4 @@
-> # Voicu Teodora TSC - OpenBook Reader
+> # Voicu Teodora Andreea TSC - OpenBook Reader
 >
 > ## Implementation steps
 >
