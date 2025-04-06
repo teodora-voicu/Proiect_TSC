@@ -104,3 +104,4 @@
 
 
 # Block Diagram
+![Block Diagram](Images/block_diagram.png)
